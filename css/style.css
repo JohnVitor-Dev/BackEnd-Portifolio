@@ -199,6 +199,14 @@ body {
   color: var(--white-color);
 }
 
+.projects-notice {
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  margin: -30px auto 50px;
+  opacity: 0.8;
+}
+
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
